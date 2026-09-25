@@ -1,0 +1,7 @@
+# Generated output: it contains content from the books, so it must never be shared.
+homebrew.json
+
+# Local runner with a machine-specific path.
+extract_homebrew.sh
+
+__pycache__/
